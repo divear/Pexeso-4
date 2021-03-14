@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(33, 34, 34);
+}
+
+.Colored{
+    position: relative;
+    width: 10vw;
+    height: 10vw;
+    margin: 10px 10px 10px 10px;
+    background-color: #5ace73;
+}
+  
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(9, 0fr);
+}
